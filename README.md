@@ -1,7 +1,7 @@
 # Kubernetes-Project1
 #kubeweek
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Prerequisites :
 
 Before setting up an Amazon EKS cluster using eksctl, there are several prerequisites that must be met:
@@ -16,7 +16,7 @@ kubectl must be installed.
 
 eksctl must be installed and set up.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Step followed :
 
@@ -36,7 +36,7 @@ Created Route 53 records
 
 Final Output on External User Browser
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Follow the Section in below blog:
 
